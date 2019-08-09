@@ -1,2 +1,2 @@
 # general_approach
-this directory contain solution to the general problem's i have solved
+This directory contains my solution to the general problem's I have come across during my work.
