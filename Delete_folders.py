@@ -4,7 +4,7 @@ delete folders containing less than 100 files.
 import os
 import shutil
 
-directory = r'/Users/varma/Downloads/lfw_funneled/'
+directory = r'C:\Users\hrishi bele\Downloads\docs'
 
 for subfolder in os.listdir(directory):
     #we are only deleting folders not files so below line will check if it is folder
