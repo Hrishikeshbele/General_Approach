@@ -7,7 +7,7 @@ import shutil
 directory = r'C:\Users\hrishi bele\Downloads\docs'
 
 for subfolder in os.listdir(directory):
-    #we are only deleting folders not files so below line will check if it is folder
+    #we are only deleting folders not files so below line will check if it is folder and proceed only if it is folder
     if os.path.isdir(directory+subfolder): 
     	# print(subfolder)
     	# cal number of files in a folder
