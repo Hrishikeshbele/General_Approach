@@ -1,5 +1,9 @@
 1. make sure that you have email adress that is professional looking . ex: hrishikesh.bele@xyz.com 
-2. basic part of email : 1. subject(clear & specific)  2. greeting  3. main text(word of apreciation) 4. closing(short and simple) 
+2. basic part of email : 1. subject(clear,brief & specific)(use key or action word at start ex. join,meet)(use apropriate capitalisation)
+                         2. greeting  
+                         3. main text(should have introduction(Who is writing +purpose of email), development(should contain ans to wh qtns),conclusion(good to include word of apreciation ex. hope,wish,thankyou)
+                         4. closing & signature (short and simple ex. regards )  
+                         
 3. avoid writing long emails, only include issential details be precise with the most important information. . don't add unnecessary words. 
 4. if your email is an order or an application that has not gotten a response. use the technique of self blaming .your followup email should say something like perhaps my order was 
  incomplete or perhaps I left something out to go ahead about situation .
