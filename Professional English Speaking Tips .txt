@@ -15,7 +15,14 @@
     >i am so happy to meet you. i am hrishikesh bele . i graduated from iit kharagpur . i am deeply interested in field of data sceince.i work at xyz as abc .  i know about your company.i am just facinated by it .you know i would actually love to stay in contact with .can you give your contact details so i can discuss my ideas with you. it was nice meeting you. 
     
  4. group discussion : 
-   a. point to agree : Yes, I agree, It looks good to me, I think so, too, I definitely agree .
-   b. point to disagree :  I'm afraid, I don't agree,I'm sorry, but I don't agree, That's interesting, but I'd prefer something different, Actually, I disagree.
-   c. seek clarification : Excuse me, I didn't hear that. Could you say it again?, Sorry, I missed what you just said. Could you repeat that please?, I'm sorry. Could you explain that again? , Excuse me, could you tell me what that means? .
-   d. say something :  Excuse me. Can I say something here?,Could I interrupt you for a minute?, Sorry to interrupt, but I'd like to say something here.
+   > point to agree : Yes, I agree, It looks good to me, I think so, too, I definitely agree .
+   > point to disagree :  I'm afraid, I don't agree,I'm sorry, but I don't agree, That's interesting, but I'd prefer something different, Actually, I disagree.
+   > seek clarification : Excuse me, I didn't hear that. Could you say it again?, Sorry, I missed what you just said. Could you repeat that please?, I'm sorry. Could you explain that again? , Excuse me, could you tell me what that means? .
+   > say something :  Excuse me. Can I say something here?,Could I interrupt you for a minute?, Sorry to interrupt, but I'd like to say something here.
+   > response to Show you Understand: Thanks, now I get it, I see, I understand now. Thank you, Thank you, it’s a lot clearer to me now.
+
+5. Telephone Call : 
+   >need more information, or have a request:Could you give me more information about this? ,Do you have a minute to review this? , Would you mind going over this with me?
+   > ans positively : Yes, I'd be happy to, Certainly, what would you like to know? , Of course.
+   > don't have ans : I'm sorry, I'm unable to confirm at this time. I'll get back with you as soon as I can, Unfortunately, I'm not able to at this time. Could I call you back , Sorry, I'm busy right now, but will be happy to call you back.
+   > closing : Thanks so much. I look forward to speaking with you again. Goodbye, It's been great talking to you. Thank you. Goodbye, I've enjoyed this conversation and hope we'll talk again soon. Goodbye.
