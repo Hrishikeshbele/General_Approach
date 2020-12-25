@@ -7,3 +7,8 @@
    > stress(& longer) content words (Action verbs(teach,sing), Nouns, adjectives(big,small), adverbs(quickly,fast), WH Questions Words(who,what), and Negatives(no,never).) . if you remove content words sentence will not make any sense. 
    > Don't stress(& softer) structure words(prepositions(in,on), pronouns(it,she),articles, modals(can,could), helping verbs(be,do).) . if you remove them sentence will still make sense.
    > intonation (rising and lowering voice) : at the end of sentence
+   
+ 3. Elevator Speech :
+    > tell story about you. give facts about you.show why you are imp to them . should lead to future engegment.(intro+little background+connection(i know about yr comp,you)+ask(meeting,internship)+close(so nice meeting you))
+    > speed(speak slowly ,use pauses to highlight imp inf) , volume(change from word/sentence to word/sentence) , body language(eye contact,stand tall,natural) 
+    >i am so happy to meet you. i am hrishikesh bele . i graduated from iit kharagpur . i am deeply interested in field of data sceince. i know about your company.i am just facinated by it .you know i would actually love to stay in contact with .can you give your contact details so i can discuss my ideas with you. it was nice meeting you. 
